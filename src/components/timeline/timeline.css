@@ -27,7 +27,7 @@
 .timeline__line{
     width: 1px;
     height: 80px;
-    background-color:#000000;
+    background-color:#0000006b;
     opacity: 0.5;
     transform: translate(1.5rem);
 }
